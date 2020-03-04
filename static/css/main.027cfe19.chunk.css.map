@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACE,eACF,CAEA,MACE,wBAA6B,CAC7B,iBAAkB,CAClB,YACF","file":"main.027cfe19.chunk.css","sourcesContent":[".todos {\n  list-style: none;\n}\n\n.todo {\n  border: 1px solid saddlebrown;\n  margin-bottom: 5px;\n  padding: 10px;\n}\n"]}
